@@ -1,2 +1,2 @@
 # telegraph-api
-cPHP class for control telegraph pages/
+PHP class for control telegraph pages/
